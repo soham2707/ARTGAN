@@ -38,26 +38,19 @@ generated-images-0200
 generated-images-0300
 
 
+**Video for showing improvement Generator**
+
+[Link to video](https://github.com/soham2707/ARTGAN/blob/master/art_gans_training.avi)
 
 
+Conclusion
+----
+Here we are seeing that the fake pictures quality is good but fake images prediction values are not very good.So now again we can run it using lower learning rate(lr) and near about 80-100 epoches may be able to increase the fake images prediction value.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Blog
+----
 
 Check out my Medium article ,where I have explained in detail.
 
-https://nandisoham2017.medium.com/artgan-a-b77ecb1bc25a
+[Link to blog](https://nandisoham2017.medium.com/artgan-a-b77ecb1bc25a)
+
