@@ -23,22 +23,23 @@ Result:
 ----
 ![UI](2.JPG)
 
-generated-images-01
+**generated-images-01**
 
 ![UI](3.JPG)
 
-generated-images-030
+**generated-images-030**
 
 ![UI](4.JPG)
 
-generated-images-0200
+**generated-images-0200**
 
 ![UI](5.JPG)
 
-generated-images-0300
+**generated-images-0300**
 
 
-**Video for showing improvement Generator**
+Video for showing improvement Generator
+----
 
 [Link to video](https://github.com/soham2707/ARTGAN/blob/master/art_gans_training.avi)
 
