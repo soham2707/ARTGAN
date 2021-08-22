@@ -13,6 +13,12 @@ Dataset
 ----
 ![UI](1.jpg)
 
+GAN Architecture:
+----
+<p align="left">
+    <img src="https://machinelearningmastery.com/wp-content/uploads/2019/04/Example-of-the-Generative-Adversarial-Network-Model-Architecture.png" width="270" height="470">
+  </p>
+
 
 
 
