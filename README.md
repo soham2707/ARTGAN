@@ -18,6 +18,19 @@ GAN Architecture:
 <p align="left">
     <img src="https://machinelearningmastery.com/wp-content/uploads/2019/04/Example-of-the-Generative-Adversarial-Network-Model-Architecture.png" width="370" height="470">
   </p>
+ 
+Result:
+----
+![UI](2.JPG)
+
+
+![UI](3.JPG)
+
+
+![UI](4.JPG)
+
+
+![UI](5.JPG)
 
 
 
