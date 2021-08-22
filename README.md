@@ -11,12 +11,12 @@ GANs are an exciting and rapidly changing field, delivering on the promise of ge
 
 Dataset
 ----
-![UI](1.jpg)
+![UI](1.JPG)
 
 GAN Architecture:
 ----
 <p align="left">
-    <img src="https://machinelearningmastery.com/wp-content/uploads/2019/04/Example-of-the-Generative-Adversarial-Network-Model-Architecture.png" width="270" height="470">
+    <img src="https://machinelearningmastery.com/wp-content/uploads/2019/04/Example-of-the-Generative-Adversarial-Network-Model-Architecture.png" width="370" height="470">
   </p>
 
 
