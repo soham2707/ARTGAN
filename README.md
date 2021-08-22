@@ -55,5 +55,5 @@ Check out my Medium article ,where I have explained in detail.
 
 [Link to blog](https://nandisoham2017.medium.com/artgan-a-b77ecb1bc25a)
 
-THANK YOU - Soham:sparkling_heart:
+THANK YOU :sparkling_heart:
 -----
