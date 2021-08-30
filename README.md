@@ -55,5 +55,11 @@ Check out my Medium article ,where I have explained in detail.
 
 [Link to blog](https://nandisoham2017.medium.com/artgan-a-b77ecb1bc25a)
 
+Different GANs trained by me:
+-----
+[Link to Number-GAN](https://github.com/soham2707/Number-GAN.git)
+
+[Link to AnimeGAN](https://github.com/soham2707/AnimeGAN.git)
+
 THANK YOU :sparkling_heart:
 -----
